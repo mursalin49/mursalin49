@@ -1,4 +1,9 @@
+### Hi there 👋, I am Md. Mursalin Hasan Nirob
+#### Student
+![Student](https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/273486981_1356611368133050_4331481342345575_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=174925&_nc_eui2=AeENoxezHeCm4idnNezIdVOqrCmeLqbrlJysKZ4upuuUnHFlGS7go2jydXkYXraafg5AGAp5fSTnQ5pi8GmKs4bu&_nc_ohc=AkubaLFUyUcAX9FMhSZ&tn=Qm6WDWrannctKQil&_nc_ht=scontent.fdac31-1.fna&oh=00_AT_RsP9MODBv28hwk0y48dd-ZhogZ61AdhcwATqxJeiDjA&oe=62DC4FFC)
 
+
+Skills: C/C++/HTML
 ###### Hi there 👋, I am Md. Mursalin Hasan Nirob
 #### Student
 
@@ -14,12 +19,7 @@ Skills: C/C++/HTML
 - ⚡ Fun fact: ...
 
 
-### Hi there 👋, I am Md. Mursalin Hasan Nirob
-#### Student
-![Student](https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/273486981_1356611368133050_4331481342345575_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=174925&_nc_eui2=AeENoxezHeCm4idnNezIdVOqrCmeLqbrlJysKZ4upuuUnHFlGS7go2jydXkYXraafg5AGAp5fSTnQ5pi8GmKs4bu&_nc_ohc=AkubaLFUyUcAX9FMhSZ&tn=Qm6WDWrannctKQil&_nc_ht=scontent.fdac31-1.fna&oh=00_AT_RsP9MODBv28hwk0y48dd-ZhogZ61AdhcwATqxJeiDjA&oe=62DC4FFC)
 
-
-Skills: C/C++/HTML
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning C++ 
