@@ -14,7 +14,7 @@ Skills: C/C++/HTML
 - ⚡ Fun fact: ...
 
 
-![Student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Student](https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/273486981_1356611368133050_4331481342345575_n.jpg?
 
 
 
