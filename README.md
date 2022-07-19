@@ -1,5 +1,8 @@
-Hi, I am Mursalin Hasan Nirob 👋
 
+###### Hi there 👋, I am Md. Mursalin Hasan Nirob
+#### Student
+
+Skills: C/C++/HTML
 
 - 🔭 I’m currently working on studing at BUBT
 - 🌱 I’m currently learning C++
@@ -10,15 +13,12 @@ Hi, I am Mursalin Hasan Nirob 👋
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### Hi there 👋, I am Md. Mursalin Hasan Nirob
-#### Student
+
 ![Student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 
-Skills: C/C++/HTML
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning C++ 
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mursalin49)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/md.mursalin.hasan.nirob2/friends)  
