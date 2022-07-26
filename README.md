@@ -3,7 +3,7 @@
 ![I am GitHub Readme Generator's creator](https://www.webskittersacademy.in/wp-content/uploads/2015/08/Web-Developer-skill.jpg)
 
 
-- 🔭 I’m currently working on studing at BUBT
+- 🔭 I’m currently studing at BUBT
 - 🌱 I’m currently learning C++
 
 Skills: C/C++/HTML
