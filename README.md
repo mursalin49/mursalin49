@@ -1,9 +1,10 @@
+![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mursalin49&label=Profile%20views&color=0e75b6&style=flat" alt="mursalin49" /> 
 <a href="https://github.com/mursalin49?tab=followers"><img src="https://img.shields.io/github/followers/mursalin49?label=Followers&style=social" alt="GitHub Badge"></a></p>
 <p align="left"> <a href="https://twitter.com/MdMursalinHasa5" target="blank"><img src="https://img.shields.io/twitter/follow/MdMursalinHasa5?logo=twitter&style=for-the-badge" alt="MdMursalinHasa5" /></a> </p>
 <img src="https://readme-typing-svg.herokuapp.com?size=30&color=2788B3&lines=As-salamu+alaykum;I+hope+you+are+well.....;Thank+you+.....">
 <div id="header" align="center">
-![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
+
 
 <h1 align="center">Hi 👋, I'm Md.Mursalin Hasan Nirob</h1>
 
