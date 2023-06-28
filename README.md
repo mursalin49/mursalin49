@@ -33,5 +33,12 @@ Skills: C/C++/HTML
   
 [![Check out mursalin49's profile on stardev.io](https://stardev.io/developers/mursalin49/badge/languages/global.svg)](https://stardev.io/developers/mursalin49)
   
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mursalin49&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  
+</p>
 
+
+<!-- <b>&#128200; Competitive Programming</b>
+    code forces status -->
 
