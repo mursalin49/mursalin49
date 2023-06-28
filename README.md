@@ -29,9 +29,7 @@ Skills: C/C++/HTML
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ariful2634&&theme=tokyonight" alt="Ariful2634"/>
   
-![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ariful2634&theme=react-dark)
-  
-[![Check out Ariful2634's profile on stardev.io](https://stardev.io/developers/Ariful2634/badge/languages/global.svg)](https://stardev.io/developers/Ariful2634)
+
   
 
 
