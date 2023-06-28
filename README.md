@@ -24,12 +24,14 @@ Skills: C/C++/HTML
 
 <b>⚡ Github Stats</b>
 <p float="left">
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=Ariful2634&show_icons=true&hide_border=true&count_private=true&"/> 
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariful2634&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=mursalin49&show_icons=true&hide_border=true&count_private=true&"/> 
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mursalin49&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ariful2634&&theme=tokyonight" alt="Ariful2634"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mursalin49&&theme=tokyonight" alt="mursalin49"/>
   
-
+![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mursalin49&theme=react-dark)
+  
+[![Check out mursalin49's profile on stardev.io](https://stardev.io/developers/mursalin49/badge/languages/global.svg)](https://stardev.io/developers/mursalin49)
   
 
 
