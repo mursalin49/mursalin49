@@ -32,13 +32,9 @@ Skills: C/C++/HTML
 ![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mursalin49&theme=react-dark)
   
 [![Check out mursalin49's profile on stardev.io](https://stardev.io/developers/mursalin49/badge/languages/global.svg)](https://stardev.io/developers/mursalin49)
-  
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mursalin49&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-  
-</p>
 
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mursalin49&label=Profile%20views&color=0e75b6&style=flat" alt="mursalin49" /> </p>
 
-<!-- <b>&#128200; Competitive Programming</b>
-    code forces status -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mursalin49" alt="mursalin49" /></a> </p>
 
