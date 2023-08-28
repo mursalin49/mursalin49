@@ -46,7 +46,7 @@
   
 ![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mursalin49&theme=react-dark)
   
-[![Check out mursalin49's profile on stardev.io](https://stardev.io/developers/mursalin49/badge/languages/global.svg)](https://stardev.io/developers/mursalin49)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mursalin49" alt="mursalin49" /></a> </p>
 
