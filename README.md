@@ -44,6 +44,7 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mursalin49&&theme=tokyonight" alt="mursalin49"/>
   
+[![@mursalin49's Holopin board](https://holopin.io/api/user/board?user=mursalin49)](https://holopin.io/@mursalin49)
 ![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mursalin49&theme=react-dark)
   
 
