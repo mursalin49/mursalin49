@@ -40,7 +40,8 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,androidstudio,bootstrap,c,cpp,css,dart,discord,figma,firebase,flutter,git,github,html,idea,java,js,matlab,mysql,octave,py,tailwind,vscode,stackoverflow" />
+    
   </a>
 </p>
 <b>⚡ Github Stats</b>
