@@ -17,9 +17,9 @@
 
 - 🌱 I’m currently studying **CSE Undergraduate at Bangladesh University of Business and Technology (BUBT).**
 
-- 👯 I’m looking to collaborate on **projects such as related to c,c++,python**
+- 👯 I’m looking to collaborate on **projects such as related to flutter, c,c++,java,python**
 
-- 💬 Ask me about **C,C++,PYTHON,JAVASCRIPT,HTML,CSS**
+- 💬 Ask me about **dart, flutter,C,C++,java,PYTHON,JAVASCRIPT,HTML,CSS**
 
 - 📫 How to reach me via email:**mursalinnirob@gmail.com**
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
