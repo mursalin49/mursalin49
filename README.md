@@ -33,7 +33,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,dart,flutter,firebase,figma,postman,git,github,stackoverflow,c,cpp,css,bootstrap,discord,html,idea,java,js,matlab,mysql,octave,py,django,tailwind,sqlite,ubuntu,powershell,arduino,linux,sklearn,tensorflow,opencv,gradle,anaconda,flask,go,r,react,redux,mongodb,express" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,dart,flutter,firebase,figma,postman,git,github,stackoverflow,c,cpp,css,bootstrap,discord,html,idea,java,js,matlab,mysql,octave,py,django,tailwind,sqlite,ubuntu,powershell,arduino,linux,sklearn,tensorflow,opencv,gradle,anaconda,flask,go,r,react,redux,mongodb,express,nodejs" />
     
   </a>
 </p>
